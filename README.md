@@ -1,6 +1,8 @@
 # tarea-README.md
 1. **Suma de los dígitos de un número**
+
    https://github.com/Diego-Encalada/tarea-README.md/blob/299dabe594743a953025fd3fac9cebe837143f6a/ejercicio1.c
+
 2. **Inverso de un número**
    
 3. **Potencia mediante sumas sucesivas**
