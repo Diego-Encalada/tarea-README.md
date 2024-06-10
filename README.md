@@ -4,9 +4,11 @@
    https://github.com/Diego-Encalada/tarea-README.md/blob/299dabe594743a953025fd3fac9cebe837143f6a/ejercicio1.c
 
 2. **Inverso de un número**
-   
+https://github.com/Diego-Encalada/tarea-README.md/blob/e86e445ae448c1cade97951f1abdbfa57c01dcd5/ejercicio2.c
+
 3. **Potencia mediante sumas sucesivas**
-   
+https://github.com/Diego-Encalada/tarea-README.md/blob/edd66d417ce128a85301b364f2bffacc55794d19/ejercicio3.c
+
 4. **Radicación mediante restas sucesivas**
  
 5. **Serie de Fibonacci**
